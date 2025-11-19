@@ -1,2 +1,3 @@
-# myausn-sns
-maus戦車のように重厚感のある充実したsnsを作る(予定)
+# myaus-home
+nuxt3 で作成
+自分のホームページをnuxt3で作ります!!
